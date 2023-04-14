@@ -32,7 +32,8 @@ I am a Developer, a Coder, and an Artist, but before all that I'm a Problem Solv
 
 ### 💻 My Projects & Experiences
 
-
+#### [Interactive rating component](https://barbodgarsha.github.io/interactive-rating-component-main/)
+- [Repositoriy](https://github.com/barbodGarsha/interactive-rating-component-main)
 
 <!--
 **barbodGarsha/barbodGarsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
