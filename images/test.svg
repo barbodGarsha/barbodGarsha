@@ -1,6 +1,6 @@
 <svg fill="none" viewBox="0 0 600 300" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
             <foreignObject width="100%" height="100%">
-                <div class="git-card">
+                <div class="git-card" xmlns="http://www.w3.org/1999/xhtml">
                     <style>
              
                         .git-card {
