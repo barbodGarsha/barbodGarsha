@@ -1,7 +1,7 @@
-# Barbod Garsha
+# 🧑‍ Barbod Garsha 💻🇯‌🇸‌
 
-**'Front-End Developer'**
-### Hi there 👋
+**`Front-End Developer`**
+
 
 <!--
 **barbodGarsha/barbodGarsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
