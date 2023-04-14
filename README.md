@@ -1,3 +1,6 @@
+# Barbod Garsha
+
+**'Front-End Developer'**
 ### Hi there 👋
 
 <!--
