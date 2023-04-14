@@ -1,4 +1,4 @@
-# 🧑‍ Barbod Garsha 💻🇯‌🇸‌
+# 🧑‍💻 Barbod Garsha
 
 **`Front-End Developer`**
 
