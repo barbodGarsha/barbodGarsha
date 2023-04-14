@@ -32,8 +32,18 @@ I am a Developer, a Coder, and an Artist, but before all that I'm a Problem Solv
 
 ### 💻 My Projects & Experiences
 
-#### [Interactive rating component](https://barbodgarsha.github.io/interactive-rating-component-main/)
-- [Repositoriy](https://github.com/barbodGarsha/interactive-rating-component-main)
+- #### [Interactive rating component](https://barbodgarsha.github.io/interactive-rating-component-main/) ( [Repository](https://github.com/barbodGarsha/interactive-rating-component-main) )
+
+- #### [Advice generator app](https://barbodgarsha.github.io/advice-generator-app-main/) ( [Repository](https://github.com/barbodGarsha/advice-generator-app-main) )
+
+- #### [Interactive card details form](https://barbodgarsha.github.io/interactive-card-details-form-main/) ( [Repository](https://github.com/barbodGarsha/interactive-card-details-form-main) )
+
+- #### [Fylo data storage component](https://barbodgarsha.github.io/fylo-data-storage-component-master/) ( [Repository](https://github.com/barbodGarsha/fylo-data-storage-component-master) )
+
+- #### [Product preview card component](https://barbodgarsha.github.io/product-preview-card-component/) ( [Repository](https://github.com/barbodGarsha/product-preview-card-component) )
+
+- #### [Pricing component with toggle](https://barbodgarsha.github.io/pricing-component-with-toggle-master/) ( [Repository](https://github.com/barbodGarsha/pricing-component-with-toggle-master) )
+
 
 <!--
 **barbodGarsha/barbodGarsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
