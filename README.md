@@ -23,9 +23,8 @@ I am a Developer, a Coder, and an Artist, but before all that I'm a Problem Solv
 
 #
 
-<summary><h3>My workflow & Approach</h3></summary>
+### My workflow & Approach
    My Workflow differs from project to project but what stays the same is my approach. I try to understand the project and its needs and while doing so I determine the best tools to built it.
-  <br /> <br />
   
   For one project I might go with Test Driven Development, Scrum Board, React, and Type Script and for another just a simple sketch on a paper and vanilla JS.
 
