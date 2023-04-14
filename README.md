@@ -49,6 +49,12 @@ I am a Developer, a Coder, and an Artist, but before all that I'm a Problem Solv
 
 - #### [Pricing component with toggle](https://barbodgarsha.github.io/pricing-component-with-toggle-master/) ( [Repository](https://github.com/barbodGarsha/pricing-component-with-toggle-master) )
 
+- #### [Gallery Website with React](https://barbodgarsha.github.io/gallery-website-react/) ( [Repository](https://github.com/barbodGarsha/gallery-website-react) )
+   - Note: this is a front end project, therefore in order to test the upload option you will have to use "Web Server for Chrome" extension to test the project localy.
+
+- #### [Currency Converter with Frankfurter API + Dark Mode](https://barbodgarsha.github.io/Currency-Converter/) ( [Repository](https://github.com/barbodGarsha/Currency-Converter) )
+
+
 <!--
 **barbodGarsha/barbodGarsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
