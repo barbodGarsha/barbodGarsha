@@ -32,6 +32,8 @@ I am a Developer, a Coder, and an Artist, but before all that I'm a Problem Solv
 
 ### 💻 My Projects & Experiences
 
+- #### [Personal Portfolio](https://barbodgarsha.github.io/Portfolio-v2/) ( [Repository](https://github.com/barbodGarsha/Portfolio-v2) )
+
 - #### [Interactive rating component](https://barbodgarsha.github.io/interactive-rating-component-main/) ( [Repository](https://github.com/barbodGarsha/interactive-rating-component-main) )
 
 - #### [Advice generator app](https://barbodgarsha.github.io/advice-generator-app-main/) ( [Repository](https://github.com/barbodGarsha/advice-generator-app-main) )
@@ -43,7 +45,6 @@ I am a Developer, a Coder, and an Artist, but before all that I'm a Problem Solv
 - #### [Product preview card component](https://barbodgarsha.github.io/product-preview-card-component/) ( [Repository](https://github.com/barbodGarsha/product-preview-card-component) )
 
 - #### [Pricing component with toggle](https://barbodgarsha.github.io/pricing-component-with-toggle-master/) ( [Repository](https://github.com/barbodGarsha/pricing-component-with-toggle-master) )
-
 
 <!--
 **barbodGarsha/barbodGarsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
