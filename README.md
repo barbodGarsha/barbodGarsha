@@ -56,6 +56,7 @@ I am a Developer, a Coder, and an Artist, but before all that I'm a Problem Solv
 
 - #### [TODOs](https://barbodgarsha.github.io/TODOs/) ( [Repository](https://github.com/barbodGarsha/TODOs) )
 
+- #### [Portfolio + Exploded View Animation](https://barbodgarsha.github.io/Exploded-View-Animation-Test-v2/) ( [Repository](https://github.com/barbodGarsha/Exploded-View-Animation-Test-v2) )
 
 <!--
 **barbodGarsha/barbodGarsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
