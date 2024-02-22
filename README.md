@@ -35,6 +35,8 @@ I am a Developer, a Coder, and an Artist, but before all that I'm a Problem Solv
 
 ### 💻 My Projects & Experiences
 
+- #### [Wrodle Game](https://barbodgarsha.github.io/Wordle-Game/) ( [Repository](https://github.com/barbodGarsha/Wordle-Game) )
+   - Note: not to final version yet, the webpage will be responsive and also I am working on a new desgin for the game
 - #### [PlayStation Website Clone](https://barbodgarsha.github.io/playstation-website-clone/) ( [Repository](https://github.com/barbodGarsha/playstation-website-clone) )
    - Note: not finished
 - #### WordPress Projects:
